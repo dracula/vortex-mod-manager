@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/vortex](https://draculatheme.com/vortex).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![Jaiden](https://github.com/jaiden-d.png?size=100)](https://github.com/jaiden-d) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [Jaiden](https://github.com/jaiden-d)                                               |
 
 ## Community
 
